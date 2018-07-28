@@ -1,4 +1,3 @@
-magento2-shipping-per-product
 Magento2 shipping per product, this module allow admin to put shipping per product and apply accordingly on cart/checkout.
 
 Installation 
